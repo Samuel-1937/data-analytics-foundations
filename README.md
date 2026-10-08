@@ -236,7 +236,7 @@ data-analytics-foundations/
 │   ├── day4_advanced_sql.sql
 │   ├── day4_findings.md
 │   └── results/
-├── day5/
+├── day5-powerbi-model/
 │   ├── day5_powerbi_model.pbix
 │   ├── day5_model_view.png
 │   └── day5_notes.md
@@ -254,7 +254,7 @@ data-analytics-foundations/
 5. Review the exported query results in the `results` folder.
 
 ## How to Review the Power BI Work
-1. Open `day5/day5_powerbi_model.pbix` to review the data model and DAX measures.
+1. Open `day5_powerbi_model.pbix` to review the data model and DAX measures.
 2. Check the model view and confirm:
    - customers (1) → (*) orders
    - products (1) → (*) orders
